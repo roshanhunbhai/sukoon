@@ -27,7 +27,7 @@ def execute_server():
 
 
 
-    entered_password = password  # Prompt for password
+    
 
 
 
